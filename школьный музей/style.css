@@ -1,10 +1,9 @@
 body {
-    margin:  auto;
+    margin: 0 auto;
     padding: 0 auto;
     font-family: 'Montserrat', sans-serif;
     position: absolute;
     background-image: url(img/фон.png);
-    display: block;
     
     
 }
@@ -17,7 +16,7 @@ body {
 .container{
     background-image: url(img/bg.png);
     height: 73px;
-    width: 1903.35px;
+    width: 1903.34px;
     margin: 0;
    
 
