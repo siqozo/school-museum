@@ -1,0 +1,12 @@
+@media screen {
+    body {
+        margin:  auto;
+        padding: 0 auto;
+        font-family: 'Montserrat', sans-serif;
+        position: absolute;
+        background-image: url(img/фон.png);
+        display: block;
+           
+    }
+    
+}
